@@ -10,6 +10,15 @@ DEBUG_MATCH = CGetSettings("Debug/RoleMatch","Bool")
 
 gStateFileNameString = string.format(os.date("%Y%m%d%H%M"))
 
+
+
+--我在这里面修啊修啊修
+--烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫
+--烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫
+--烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫
+--烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫烫
+
+
 -- gTestPlay = "test1-01"
 -- gTestPlay = "test1-02"
 -- gTestPlay = "test1-03"
