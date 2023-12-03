@@ -38,6 +38,10 @@ gTestPlay = "test1-08"
 -- gTestPlay = "test1-26"
 -- gTestPlay = "test1-27"
 
+
+--队友在小小的文件里，改鸭改鸭改
+
+
 gRoleFixNum = {
         ["Kicker"]   = {},
         ["Goalie"]   = {0},
